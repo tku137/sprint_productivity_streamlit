@@ -1,6 +1,5 @@
 import streamlit as st
 from gitlab_sprint_helper import GitLabSprintHelper
-from datetime import datetime
 
 
 # Function to fetch MR rate data
